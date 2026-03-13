@@ -2,6 +2,8 @@
 
 An AI-powered math tutoring app with visual explanations, graphs, and lesson video generation.
 
+<video src="assets/demo_video.mp4" controls autoplay loop muted width="700"></video>
+
 ## Features
 
 - 🤖 **AI explanations** powered by Claude (Anthropic)
