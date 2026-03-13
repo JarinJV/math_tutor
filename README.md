@@ -18,8 +18,9 @@ An AI-powered math tutoring app with visual explanations, graphs, and lesson vid
 # 1. Install dependencies
 pip install -r requirements.txt
 
-# 2. Set your Anthropic API key (or enter it in the sidebar)
+# 2. Set your API key (or enter it in the sidebar)
 export ANTHROPIC_API_KEY=your_key_here
+export GEMINI_API_KEY=your_key_here
 
 # 3. Run the app
 cd math_tutor
