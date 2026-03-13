@@ -2,7 +2,7 @@
 
 An AI-powered math tutoring app with visual explanations, graphs, and lesson video generation.
 
-<video src="assets/demo_video.mp4" controls autoplay loop muted width="700"></video>
+![demo](https://github.com/user-attachments/assets/d66ce9a7-dee2-4847-ad5f-01f3e31332b6)
 
 ## Features
 
